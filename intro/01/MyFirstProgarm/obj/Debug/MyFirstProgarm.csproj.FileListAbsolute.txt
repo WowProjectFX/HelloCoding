@@ -1,0 +1,7 @@
+E:\Projects\intro\01\MyFirstProgarm\bin\Debug\MyFirstProgarm.exe.config
+E:\Projects\intro\01\MyFirstProgarm\bin\Debug\MyFirstProgarm.exe
+E:\Projects\intro\01\MyFirstProgarm\bin\Debug\MyFirstProgarm.pdb
+E:\Projects\intro\01\MyFirstProgarm\obj\Debug\MyFirstProgarm.csprojAssemblyReference.cache
+E:\Projects\intro\01\MyFirstProgarm\obj\Debug\MyFirstProgarm.csproj.CoreCompileInputs.cache
+E:\Projects\intro\01\MyFirstProgarm\obj\Debug\MyFirstProgarm.exe
+E:\Projects\intro\01\MyFirstProgarm\obj\Debug\MyFirstProgarm.pdb
