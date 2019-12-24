@@ -1,0 +1,13 @@
+E:\Projects\intro\01\MyFirstProgarm\bin\Debug\MyFirstProgarm.exe.config
+E:\Projects\intro\01\MyFirstProgarm\bin\Debug\MyFirstProgarm.exe
+E:\Projects\intro\01\MyFirstProgarm\bin\Debug\MyFirstProgarm.pdb
+E:\Projects\intro\01\MyFirstProgarm\obj\Debug\MyFirstProgarm.csprojAssemblyReference.cache
+E:\Projects\intro\01\MyFirstProgarm\obj\Debug\MyFirstProgarm.csproj.CoreCompileInputs.cache
+E:\Projects\intro\01\MyFirstProgarm\obj\Debug\MyFirstProgarm.exe
+E:\Projects\intro\01\MyFirstProgarm\obj\Debug\MyFirstProgarm.pdb
+E:\Development\C#\Projects\intro\02\ConsoleWrite\bin\Debug\MyFirstProgarm.exe.config
+E:\Development\C#\Projects\intro\02\ConsoleWrite\bin\Debug\MyFirstProgarm.exe
+E:\Development\C#\Projects\intro\02\ConsoleWrite\bin\Debug\MyFirstProgarm.pdb
+E:\Development\C#\Projects\intro\02\ConsoleWrite\obj\Debug\MyFirstProgarm.csprojAssemblyReference.cache
+E:\Development\C#\Projects\intro\02\ConsoleWrite\obj\Debug\MyFirstProgarm.exe
+E:\Development\C#\Projects\intro\02\ConsoleWrite\obj\Debug\MyFirstProgarm.pdb

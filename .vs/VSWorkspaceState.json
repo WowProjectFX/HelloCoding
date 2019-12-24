@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\intro",
+    "\\intro\\01",
+    "\\intro\\01\\MyFirstProgarm",
+    "\\intro\\02",
+    "\\intro\\02\\ConsoleWrite"
+  ],
+  "SelectedNode": "\\intro\\01\\MyFirstProgarm\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
